@@ -1,0 +1,12 @@
+
+build:
+  version: "1.1"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs"
+  contactDetails:
+    name: "Subham - Lead TCS"
+    email: "subham@gmail.com"
+  onCallSupport:
+    - "(+91) 1234565432"
+    - "(+91) 9876543212"

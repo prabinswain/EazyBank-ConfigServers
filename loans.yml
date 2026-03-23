@@ -1,0 +1,12 @@
+
+build:
+  version: "1.1"
+
+loans:
+  message: "Welcome to EazyBank loans related local APIs"
+  contactDetails:
+    name: "Darshan - Lead"
+    email: "darshan@gmail.com"
+  onCallSupport:
+    - "(+91) 9853801349"
+    - "(+91) 9853801349"
