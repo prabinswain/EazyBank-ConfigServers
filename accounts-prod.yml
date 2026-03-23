@@ -5,7 +5,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related prod APIs"
   contactDetails:
-    name: "Deepak - PROD lead"
+    name: "Deepak - prod lead"
     email: "{cipher}c0ed275b142dec4bc8f96e951fc6637c44d442c889ba68bb5770cb2bd2ee32c84323575bff9447830c027459328c989d"
   onCallSupport:
     - "(+91) 8249883682"
