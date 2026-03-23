@@ -6,7 +6,7 @@ cards:
   message: "Welcome to EazyBank cards related prod APIs"
   contactDetails:
     name: "Alok - PROD Lead TCS"
-    email: "aloknahak@gmail.com"
+    email: "{cipher}1ce9d59fcaa2bc2aa29ad130869247b8bf3626ac70d48cbbd7d2f7d9642e955b151b35b0d0a4ce22da7edad1f5ef51fc"
   onCallSupport:
     - "(+91) 1234565432"
     - "(+91) 7538070689"
