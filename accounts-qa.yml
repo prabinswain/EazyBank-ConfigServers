@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to EazyBank accounts related QA APIs"
   contactDetails:
     name: "Alok - QA lead"
-    email: "alok@gmail.com"
+    email: "{cipher}0f5b234ef805f1fe746934b632cf77dff1168781b6d7e7046f4d4d37c8c142e0"
   onCallSupport:
     - "(+91) 7538070689"
     - "(+91) 0000000000"
