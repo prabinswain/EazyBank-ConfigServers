@@ -4,7 +4,7 @@ build:
 loans:
   message: "Welcome to EazyBank loans related prod APIs"
   contactDetails:
-    name: "Deepak - Lead Developer"
+    name: "Deepak Maharana- Lead Developer"
     email: "{cipher}df32dfcabe144295833a12b2c4dc80307a3cc126d29a9f3ac2e70df5adb21617e250f4f684ad25fc1964a698cdbdda41"
   onCallSupport:
     - "(+91) 9853801349"
