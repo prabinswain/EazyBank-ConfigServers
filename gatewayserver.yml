@@ -1,0 +1,8 @@
+eureka:
+  instance:
+    preferIpAddress: true # http://IP:8080 // in production it stores the DNS details
+  client:
+    fetchRegistry: true # fetch registry details
+    registerWithEureka: true # registerWithEureka: true Register THIS service into Eureka
+    serviceUrl:
+      defaultZone: http://localhost:8070/eureka # inside docker http://eurekaserver:8070/eureka
