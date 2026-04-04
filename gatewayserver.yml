@@ -1,3 +1,5 @@
+server:
+  port: 8072
 eureka:
   instance:
     preferIpAddress: true # http://IP:8080 // in production it stores the DNS details
